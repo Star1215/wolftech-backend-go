@@ -1,0 +1,9 @@
+# build
+/tmp
+.env
+go.sum
+./vs
+
+# misc
+
+/docs
